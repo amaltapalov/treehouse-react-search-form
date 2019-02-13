@@ -1,6 +1,8 @@
 import React from 'react';
 import {
-    Container, ListGroup, ListGroupItem
+    Container,
+    ListGroup,
+    ListGroupItem
 } from 'react-bootstrap';
 
 const Results = () => (
